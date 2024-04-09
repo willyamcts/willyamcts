@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willyamcts&exclude_repo=miscellaneous,batch-solutions&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willyamcts&exclude_repo=miscellaneous&hide=javascript,html,css,perl,xbase&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **willyamcts/willyamcts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
