@@ -4,7 +4,7 @@
 ## Certifications
 <a href="#"><img width="145px" title="AWS Cloud Practitioner" src="https://github.com/user-attachments/assets/4141e2e8-3f59-452e-86bb-d614c6b61aaf"></a>
 <a href="#"><img width="140px" title="Hackviser - Certified Associate Penetration Tester" src="https://github.com/user-attachments/assets/7661ca73-62e1-4267-a191-0b27bc285a04"></a>
-<a href="#"><img width="145px" title="IBSEC - Segurança em Linux" src="https://github.com/user-attachments/assets/1397190d-e467-48ec-943c-a71acf2330df"></a>
+<a href="#"><img width="145px" title="IBSEC - Segurança em Linux" src="https://github.com/user-attachments/assets/36ec5bd4-5b43-4494-b83a-1770b361ec86"></a>
 <a href="#"><img width="145px" title="IBSEC - Cybersecurity Awareness" src="https://github.com/user-attachments/assets/1397190d-e467-48ec-943c-a71acf2330df"></a>
 
 
