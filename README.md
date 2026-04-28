@@ -2,11 +2,9 @@
 
 > IT Infrastructure professional with over 10 years of experience focused on operations, support, and deploy of technology solutions.
 
-🔭 Currently working as an On-Premises Infrastructure Analyst.
+🔭 I'm currently working as an On-Premises Infrastructure Analyst.
 
-📚 Currently Learning: AWS Cloud Computing ☁️ (see my repo of learning [here](https://github.com/willyamcts/training-aws))
-
-👀 Passionate about Linux, open-source technologies, automation with Python/Bash/Shell Script, cloud computing, cybersecurity, and embedded devices using NodeMCU and ESP platforms.
+💞 I'm passionate about Linux, open-source technologies, automation with Python/Bash/Shell Script, cloud computing, cybersecurity, and embedded devices using NodeMCU and ESP platforms.
 
 🤖 Tech Stack:
 * Linux
@@ -22,7 +20,9 @@
 * <a href="#"><img width="20" title="AWS Cloud Practitioner" src=https://pnl2027.gov.pt/img/loading.gif></a>
 -->
 
-🏗️ Currently, I maintain a VPS environment with a Mosquitto server broker and a Python API client that receives data from ESP32/ESP8266 boards, which collect information from industrial machines. The data is received via API in JSON format, saved in the database, and consumed by a web application.
+📚 Current learning: AWS Cloud Computing ☁️ (see my repo of learning [here](https://github.com/willyamcts/training-aws))
+
+🏗️ Currently building: I maintain a VPS environment with a Mosquitto server broker and a Python API client that receives data from ESP32/ESP8266 boards, which collect information from industrial machines. The data is received via API in JSON format, saved in the database, and consumed by a web application.
 
 
 ## Certifications and some badges
